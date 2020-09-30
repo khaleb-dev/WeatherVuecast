@@ -1,4 +1,4 @@
-# VueWeather
+# WeatherVuecast
 A cool weather app built with VueJs.
 
 ## Project setup
